@@ -139,19 +139,19 @@ The system expects MongoDB documents with the following structure:
 ## Screenshots
 
 ### index.html
-![Image 1](https://github.com/sabeshraaj/mezoi/blob/main/images/img1.png?raw=true)
+![Image 1](https://github.com/sabeshraaj/mezoi/blob/main/images/image1.jpeg?raw=true)
 
 ### patient_progress.html
-![Image 2](https://github.com/sabeshraaj/mezoi/blob/main/images/img2.png?raw=true)
+![Image 2](https://github.com/sabeshraaj/mezoi/blob/main/images/image2.jpeg?raw=true)
 
 ### demonstration.html
-![Image 3](https://github.com/sabeshraaj/mezoi/blob/main/images/img3.png?raw=true)
+![Image 3](https://github.com/sabeshraaj/mezoi/blob/main/images/image3.jpeg?raw=true)
 
 ### wakewords file 
-![Image 4](https://github.com/sabeshraaj/mezoi/blob/main/images/img4.png?raw=true)
+![Image 4](https://github.com/sabeshraaj/mezoi/blob/main/images/image4.jpeg?raw=true)
 
 ### videos file 
-![Image 5](https://github.com/sabeshraaj/mezoi/blob/main/images/img4.png?raw=true)
+![Image 5](https://github.com/sabeshraaj/mezoi/blob/main/images/image5.jpeg?raw=true)
 
 
 ## Configuration
